@@ -1,0 +1,66 @@
+.bg-1{
+    background-color: gray;
+    color:black;       
+  }
+  .bg-5 {
+    background-color: lightgray;
+    color: white;
+  }
+  
+  .bg-2{
+    background-color:gray;
+    color:black;  
+          
+  }
+  .bg-3{
+    background-color: lightgray;
+    color:black;      
+  }
+  .bg-4{
+    background-color:gray;
+    color:black; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+   .center{
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+  
+  }
+  
+  .fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  background-color: lightgrey;
+  border-radius: 50%;
+  }       
+
+
+  
+  .container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  }
+
+  .container-1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .padding {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .pad64{
+    padding-bottom: 64px;
+  }
+  
